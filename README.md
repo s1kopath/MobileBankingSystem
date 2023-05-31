@@ -30,7 +30,7 @@
     <li>Clone the project repository from GitHub:</li>
   </ol>
 
-  <pre><code>git clone https://github.com/your-username/MobileBankingSystem.git</code></pre>
+  <pre><code>git clone https://github.com/s1kopath/MobileBankingSystem.git</code></pre>
 
   <ol start="2">
     <li>Import the project into your preferred IDE.</li>
